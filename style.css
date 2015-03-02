@@ -1,0 +1,70 @@
+body {
+  background-color: #ec3b83;
+}
+#container {
+  width: 300px;
+  margin: auto;
+  margin-top: 100px;
+}
+#console {
+  height: 70px;
+  width: 300px;
+  background-color: #101010;
+  outline: #353535 solid 1px;
+  overflow: hidden;
+  padding-right: 6px;
+  font-size: 3em;
+  text-align: right;
+  color: #2b95ee;
+  line-height: 2.1em;
+}
+.clear {
+  height: 60px;
+  width: 225px;
+  background-color: #2b95ee;
+  color: #ffffff;
+  float: left;
+  outline: #353535 solid 1px;
+  line-height: 60px;
+  padding-left: 20px;
+}
+.operator {
+  height: 60px;
+  width: 75px;
+  color: #8b8b8b;
+  background-color: #161616;
+  float: left;
+  text-align: center;
+  outline: #353535 solid 1px;
+  line-height: 60px;
+}
+.delete {
+  height: 60px;
+  width: 75px;
+  color: #c1151b;
+  background-color: #161616;
+  float: left;
+  text-align: center;
+  outline: #353535 solid 1px;
+  line-height: 60px;
+}
+.nums {
+  height: 60px;
+  width: 75px;
+  color: #ffffff;
+  background-color: #252525;
+  float: left;
+  text-align: center;
+  outline: #353535 solid 1px;
+  line-height: 60px;
+}
+.equal {
+  height: 60px;
+  width: 75px;
+  color: #ffffff;
+  background-color: #129b49;
+  float: left;
+  text-align: center;
+  outline: #353535 solid 1px;
+  line-height: 60px;
+}
